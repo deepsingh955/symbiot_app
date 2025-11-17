@@ -45,5 +45,17 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>This app needs camera access to upload photos from the camera in the web application.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>This app needs microphone access for voice features in the web application.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app needs photo library access to upload images in the web application.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>This app needs access to save photos to your library from the web application.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app needs location access for location-based features in the web application.</string>
+	<key>io.flutter.embedded_views_preview</key>
+	<true/>
 </dict>
 </plist>
